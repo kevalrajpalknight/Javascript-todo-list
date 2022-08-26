@@ -129,7 +129,8 @@ select {
 	right: 0;
 	padding: 1rem;
 	pointer-events: none;
-	transition: all 0.5s ease
+	transition: all 0.5s ease;
+	cursor: pointer;
 }
 
 .select:hover::after {
